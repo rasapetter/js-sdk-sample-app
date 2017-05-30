@@ -9,7 +9,7 @@ import RaisedButton from 'material-ui/RaisedButton'
 import MenuItem from 'material-ui/MenuItem'
 import FlatButton from 'material-ui/FlatButton'
 import { setResponse } from './../duck'
-import ReduxFormDropdownMenu from './../components/ReduxFormDropdownMenu.jsx'
+import ReduxFormDropdownMenu from './../components/ReduxFormDropDownMenu.jsx'
 import ReduxFormTextField from './../components/ReduxFormTextField.jsx'
 import ReduxFormKeyValueFields from './../components/ReduxFormKeyValueFields.jsx'
 
